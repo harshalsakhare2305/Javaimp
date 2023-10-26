@@ -10,7 +10,7 @@ public class Stackclass {
             this.next=null;
         }
      }
-
+ 
      static class stack{
         public  static Node head;
 
